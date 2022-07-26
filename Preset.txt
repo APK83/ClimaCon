@@ -1,0 +1,4 @@
+Auto	24	45	1600
+Eco	19	35	1000
+Effective	28	48	3200
+Night	21	42	800

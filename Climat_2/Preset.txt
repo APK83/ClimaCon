@@ -1,0 +1,6 @@
+Off;System;0;0;0
+Auto;System;24;40;16
+Eco;System;19;30;10
+Effective;System;28;45;32
+Night;System;21;40;8
+Test1;User;16;25;10

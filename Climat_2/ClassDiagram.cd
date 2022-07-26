@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Climat_2.Ventilation">
+    <Position X="10.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAQYAAAAAAAQAAAEgAAA=</HashCode>
+      <FileName>Ventilation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Climat_2.Preset">
+    <Position X="5.25" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAECAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Preset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Climat_2.PresetLoader">
+    <Position X="5.25" Y="7.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAIABAAAAIAAAAAgQCAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Preset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Climat_2.Parameter">
+    <Position X="5.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAABAgAQAAAAAAAAAAAAACAAAAAAAEAAAAA=</HashCode>
+      <FileName>Parameter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Climat_2.Humidifier">
+    <Position X="14.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAIAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Humidifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Climat_2.Heater">
+    <Position X="10.5" Y="7.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAAgAAA=</HashCode>
+      <FileName>Heater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Climat_2.Conditioner">
+    <Position X="10.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAYAAAAAAAQAAAAgAAA=</HashCode>
+      <FileName>Conditioner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Climat_2.ClimaCon" Collapsed="true">
+    <Position X="18.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9QyUBCnDPmTC4VbLioKQRDHnkSi5AQ4E4PGYODVMIKA=</HashCode>
+      <FileName>ClimaCon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
